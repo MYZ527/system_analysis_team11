@@ -45,9 +45,9 @@ gantt
     section 程式除錯
     程式除錯      :a5,after a4  , 10d
     section 程式再次測試
-    程式修正      :a6,after a4  , 15d
+    程式再次測試      :a6,after a4  , 15d
     section 程式修正
-    程式測試      :a7,after a6  , 7d
+    程式修正      :a7,after a6  , 7d
     section 製作簡報
     製作簡報      :a8,after a7 , 8d
 ```
