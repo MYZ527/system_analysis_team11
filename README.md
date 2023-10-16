@@ -35,7 +35,7 @@ gantt
     title 甘特圖
 
     section 2023/10/03開始
-    討論主題      :a1, 2023-10-03, 7d
+    討論主題      :a1, 2023-10-03, 8d
     工作分配      :a2,after a1  , 2d
     程式開發      :a3,after a2  , 35d
     程式測試      :a4,after a3  , 10d
