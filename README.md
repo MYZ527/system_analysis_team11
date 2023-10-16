@@ -45,3 +45,6 @@ gantt
     程式修正      :a8,2023-12-17  , 5d
     製作簡報      :a9,2023-12-22 , 2d
 ```
+
+## PERT/CPM圖
+![PERT](PERTCPM01.PNG "PERT")
