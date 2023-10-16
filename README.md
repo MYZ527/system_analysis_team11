@@ -35,19 +35,19 @@ gantt
     title 甘特圖
 
     section 討論主題
-    討論主題      :a1, 2023-10-05, 7d
+    討論主題      :a1, 2023-10-03, 7d
     section 工作分配
     工作分配      :a2,after a1  , 1d
     section 程式開發
-    程式開發      :a3,after a2  , 45d
+    程式開發      :a3,after a2  , 34d
     section 程式測試
-    程式測試      :a4,after a3  , 8d
+    程式測試      :a4,after a3  , 10d
     section 程式除錯
     程式除錯      :a5,after a4  , 10d
     section 程式測試
-    程式修正      :a6,after a4  , 12d
+    程式修正      :a6,after a4  , 15d
     section 程式修正
-    程式測試      :a7,after a6  , 4d
+    程式測試      :a7,after a6  , 7d
     section 製作簡報
-    製作簡報      :a8,after a7 , 3d
+    製作簡報      :a8,after a7 , 8d
 ```
