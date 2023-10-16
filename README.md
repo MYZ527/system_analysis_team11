@@ -44,7 +44,7 @@ gantt
     程式測試      :a4,after a3  , 10d
     section 程式除錯
     程式除錯      :a5,after a4  , 10d
-    section 程式測試
+    section 程式再次測試
     程式修正      :a6,after a4  , 15d
     section 程式修正
     程式測試      :a7,after a6  , 7d
