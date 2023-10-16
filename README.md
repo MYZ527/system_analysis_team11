@@ -18,3 +18,36 @@
 前端使用Angular的HttpClient模塊來發送HTTP請求到後端API端點，後端建立適當的API路由和控制器，以處理前端請求，
 
 使CRUD操作能夠順利執行，成功接上API後，當用戶執行操作時，資料將即時更新，確保信息的即時性。
+
+# 工作任務
+
+| 姓名 | 工作內容 |
+| :-: | :-: |
+| 毛云蓁 | 前端程式頁面撰寫、製作簡報 |
+| 余欣恬 | 前端程式頁面撰寫 |
+| 劉惠欣 | 前端程式頁面撰寫 |
+| 蔣宗勳 | 後端資料庫程式撰寫|
+| 楊程宇 | 軟體測試、製作簡報 |
+
+# 專題甘特圖與PERT/CPM圖
+```mermaid
+gantt
+    title 甘特圖
+
+    section 討論主題
+    討論主題      :a1, 2023-10-05, 7d
+    section 工作分配
+    工作分配      :a2,after a1  , 1d
+    section 程式開發
+    程式開發      :a3,after a2  , 45d
+    section 程式測試
+    程式測試      :a4,after a3  , 8d
+    section 程式除錯
+    程式除錯      :a5,after a4  , 10d
+    section 程式測試
+    程式修正      :a6,after a4  , 12d
+    section 程式修正
+    程式測試      :a7,after a6  , 4d
+    section 製作簡報
+    製作簡報      :a8,after a7 , 3d
+```
