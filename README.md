@@ -93,6 +93,9 @@ gantt
 ### DFD 圖0
 ![DFD0](DFD0.png "DFD0")
 
+# 繪出UML類別圖(CLASS DIAGRAM)
+
+
 # 循序圖與活動圖
 案例1循序圖
 
