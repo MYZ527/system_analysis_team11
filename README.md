@@ -81,8 +81,8 @@ gantt
 ![案例4](案例4.png "案例4")
 
 ### 使用Figma劃出第一個使用案例的動態模擬畫面
-![Figma](Figma1.png "Figma")
-
+![Figma](Figma管理者.png "Figma")
+![Figma](Figma使用者.png "Figma")
 ### 系統環境圖(DFD)
 ![DFD](DFD.png "DFD")
 ### DFD 圖0
