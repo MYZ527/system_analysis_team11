@@ -135,7 +135,7 @@ gantt
 ![8](8.png "8")
 
 # 實體關係圖(ERD)
-![ERD](ERD.png "ERD")
+![ERD1](ERD1.png "ERD1")
 
 # 組合實體
 ![組合實體](組合實體.png "組合實體")
